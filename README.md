@@ -9,13 +9,7 @@ Thanks for checking out this front-end coding challenge.
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
-<div align="center">
-  <h3>
-    <a href="http://127.0.0.1:3000/src/index.html">
-      Demo
-    </a>
-  </h3>
-</div>
+![gambar 1](ss/Ss.png)
 
 ## The challenge
 
