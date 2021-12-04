@@ -11,8 +11,8 @@ Thanks for checking out this front-end coding challenge.
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 <div>
 <h1>Screenshot</h1>
-![gambar 1](ss/Ss.png)
 </div>
+![gambar 1](ss/Ss.png)
 ## The challenge
 
 Your challenge is to build out this landing page from the designs provided in the starter code.
